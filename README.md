@@ -1,23 +1,23 @@
 # Projeto TwitterX Clone Ebac
 
-### Projeto Final Curso Ebac\
+## Projeto Final Curso Ebac
 
-Este projeto é um clone simplificado do antigo Twitter (X), desenvolvido com Django. Ele permite funcionalidades básicas de autenticação de usuários, criação, listagem e exclusão de tweets. O objetivo é demonstrar conceitos fundamentais do framework Django.
+Este projeto é um clone simplificado do antigo Twitter (X), desenvolvido com Django. Ele permite funcionalidades básicas de autenticação de usuários, criação, listagem e exclusão de tweets. O objetivo é demonstrar conceitos fundamentais do framework Django. 🐍✨
 
-🚀 Como Rodar o Projeto
+ ## 🚀 Como Rodar o Projeto
 
 Clone o repositório:
 
 git clone <link-do-repo>
-cd TWITTERX_CLONE
+cd < nome do projeto >
 
-Crie o ambiente virtual e ative:
+## 💡 Crie o ambiente virtual e ative:
 
-python -m venv env
-source env/bin/activate  # Linux/Mac 🍎🐧
-env\Scripts\activate     # Windows 🖥️
+python -m venv env <br />
+source env/bin/activate ====  <strong>Linux/Mac 🍎🐧 </strong> <br />
+env\Scripts\activate   ====  <strong> Windows </strong>🖥️ <br />
 
-Instale as dependências:
+## 💡 Instale as dependências:
 
 pip install -r requirements.txt
 
@@ -32,7 +32,7 @@ python manage.py runserver
 Acesse o projeto:
 🌐 Abra o navegador e acesse: http://127.0.0.1:8000/
 
-💡 Funcionalidades
+## 💡 Funcionalidades
 
 Cadastro e login de usuários 🔐
 
@@ -42,7 +42,7 @@ Listagem de tweets 📃
 
 Confirmação e exclusão de tweets ❌
 
-🤝 Contribuindo
+## 🤝 Contribuindo
 
 Faça um fork do projeto 🍴
 
