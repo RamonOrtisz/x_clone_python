@@ -4,6 +4,10 @@
 
 Este projeto é um clone simplificado do antigo Twitter (X), desenvolvido com Django. Ele permite funcionalidades básicas de autenticação de usuários, criação, listagem e exclusão de tweets. O objetivo é demonstrar conceitos fundamentais do framework Django. 🐍✨
 
+ ## 🚀 Framworks/linguagens 
+ python 3.10 <br/>
+ django 5.0.6
+
  ## 🚀 Como Rodar o Projeto
 
 Clone o repositório:
