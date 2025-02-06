@@ -14,5 +14,6 @@ class Tweet(models.Model):
     def like_amount(self):
         return self.likes.count()
 
+
     class Meta:
         ordering = ["-created_at"]
